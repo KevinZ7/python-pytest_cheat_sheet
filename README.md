@@ -3,13 +3,13 @@ A list of syntaxes for commonly used pytest methods
 
 
 ## Pytest minimum example
-# test_basic.py
+### test_basic.py
 ```python
 def test_something():
     assert True
 ```
-### Parametrize example
-# Creating multiple tests with a single function
+## Parametrize example
+### Creating multiple tests with a single function
 ```python
 import pytest
 
